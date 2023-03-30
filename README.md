@@ -1,3 +1,3 @@
-# ComplianceAndQualityAssurance
+# 2TDSH - Projeto do Dilan
 
-Repositório criado para armazenamento de arquivos da aula de Compliance & Quality Assurance da faculdade FIAP.
+Projeto exemplo de uso do GIT com e sem Clients.
